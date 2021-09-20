@@ -1,5 +1,5 @@
 <h1 align="center">Behçet Şentürk</h1>
-<h3 align="center">Data Engineer/Scientist</h3>
+<h3 align="center">Data Enthusiast</h3>
 
 - 🔭 I’m currently working on **Reinforcement Learning**
 - 🌱 I’m currently learning **Pytorch**
